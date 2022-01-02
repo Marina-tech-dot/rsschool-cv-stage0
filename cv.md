@@ -1,10 +1,10 @@
 # Marina Hudkova
-====
+
 ### My Contact Info
 Location: Poland, Gdansk
 hudkova.marina@gmail.com
 Marina Hudkova(@Marina-teсh-dot) - discord
-====
+
 ### About Me
 I'm ex lawyer.
 Now I am going through learning js and other's developers tools. It's not easy, but exciting jorney.
@@ -15,7 +15,7 @@ My aim - became high-quality frontend developer.
     + A am learning, and learning, and learning 5 times a week for 4 month...
     + Will of gut
     + Team playing
-==== 
+
 ### Skills
 * HTML
 * CSS (SASS/SCSS, BEM)
@@ -24,7 +24,7 @@ My aim - became high-quality frontend developer.
 * Gulp
 * VsCode
 * Figma
-====
+
 ### Code Examples 
 (not the best variant, but the most difficult task for me on 21 december 2021)
 
@@ -58,16 +58,16 @@ My aim - became high-quality frontend developer.
 
           return +result.join('');
     }
-====
+
 ### Education
 * Belorassian State University (Lawyer);
 * htmlAcademy
 * codeAcademy
 * youtube frontend chanels
 * self education
-====
+
 ### Languages
 * Russian - native speaker
 * English - B1 (B2 is in process…)
-===
+
 
