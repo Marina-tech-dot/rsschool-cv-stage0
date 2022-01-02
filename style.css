@@ -415,7 +415,7 @@ html {
 .quotation::before {
   content: "";
   position: absolute;
-  background-image: url("../img/Photo.png");
+  background-image: url("img/Photo.png");
   background-repeat: no-repeat;
   right: 415px;
   width: 100%;
